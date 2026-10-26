@@ -1,8 +1,6 @@
 
 <?xml version="1.0" encoding="UTF-8" ?>
-<PackData
-    name="Owen Image Test"
-    desc="Testing image pack">
+<PackData name="Bowen Photo Test" desc="Photo replacement test">
     <PlayerData baseImageUrl="https://raw.githubusercontent.com/elyandelofficial-blip/sm27-data-pack./refs/heads/main/">
         <P id="73249" i="owen.png" />
     </PlayerData>
